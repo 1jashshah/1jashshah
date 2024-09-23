@@ -2,6 +2,7 @@
   <img src="/1_DluPjzT_eTUFdzHCI7JBZA.gif" alt="Description of GIF" height="250">
 </div>
 
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1jashshah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -86,7 +87,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/1jashshah/1jashshah/output/snake.svg" alt="Snake animation" />
+<img src="/snake.gif" alt="Snake animation" align="center" />
 
 ###
 
