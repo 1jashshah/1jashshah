@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src"https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif" />
+  <img src="path/to/1_DluPjzT_eTUFdzHCI7JBZA.gif" alt="Description of GIF" height="200">
 </div>
 
 ###
