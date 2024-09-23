@@ -1,3 +1,6 @@
+<p align="left"><b>Hello there !! This Is Jash Shah</b></p>
+<p align="center"><b>Turning Ideas into Reality !!</b></p>
+
 <div align="center">
   <img src="/1_DluPjzT_eTUFdzHCI7JBZA.gif" alt="Description of GIF" height="250">
 </div>
