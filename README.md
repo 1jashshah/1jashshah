@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path/to/1_DluPjzT_eTUFdzHCI7JBZA.gif" alt="Description of GIF" height="200">
+  <img src="/1_DluPjzT_eTUFdzHCI7JBZA.gif" alt="Description of GIF" height="200">
 </div>
 
 ###
